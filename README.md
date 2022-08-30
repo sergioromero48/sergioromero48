@@ -1,0 +1,5 @@
+- Hi, I’m @sergioromero48
+- I’m interested in Automation and Robotics
+- I’m currently learning Electrical Engineering
+- I’m looking to collaborate on any research projects
+- How to reach me @sergioromero48@outlook.com
