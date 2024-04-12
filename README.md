@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering major at the Univers
 - 🎓 Pursuing a Bachelor's in Electrical Engineering with a concentration in Systems and Control at UTSA.
 - 🌟 Passionate about robotics and autonomous systems and their potential to revolutionize our lives and work.
 - 🛠️ Skilled in C++, Python, and embedded systems programming.
-- 📚 Lifelong learner, mentor, and Vice President of the Robotics and Automation Society at UTSA.
+- 📚 Lifelong learner, mentor, and proud member of the Robotics and Automation Society.
 - 🎯 Goal: To contribute to cutting-edge projects in robotics, enhancing system efficiency and automation.
 
 ### 🌐 Connect with Me
