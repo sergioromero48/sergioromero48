@@ -1,6 +1,6 @@
 # Hi there, I'm Sergio 👋
 
-## Electrical Engineering Student | Robotics and Autonomous Systems Enthusiast | Vice President of the Robotics and Automation Society
+## Electrical Engineering Student | Robotics and Autonomous Systems Enthusiast | Project Manager of the Robotics and Automation Society at UTSA
 
 Welcome to my GitHub profile! I'm an Electrical Engineering major at the University of Texas at San Antonio (UTSA), specializing in Systems and Control. With a deep passion for robotics and autonomous systems, I enjoy literature 📖, music 🎶, philosophy 💭, and robotics 🤖.
 
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering major at the Univers
 ### 💼 Technical Skills
 - **Languages:** Embedded C, C++, Python, MATLAB
 - **Tools & Technologies:** ROS (Robot Operating System), Embedded Systems, Control System Design, Linux Kernel
-- **Soft Skills:** Team Collaboration, Problem-Solving, Leadership, Organizational Leadership (as VP of Robotics and Automation Society)
+- **Soft Skills:** Team Collaboration, Problem-Solving, Leadership, Organizational Leadership
 
 ---
 
