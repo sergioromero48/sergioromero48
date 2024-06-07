@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm an Electrical Engineering major at the Univers
 - Email: sergioromero48@outlook.com
 
 ### 💼 Technical Skills
-- **Languages:** Embedded C, C++, Python, MATLAB
-- **Tools & Technologies:** ROS (Robot Operating System), Embedded Systems, Control System Design, Linux Kernel
+- **Languages:** C++, Embedded C, Python, MATLAB
+- **Tools & Technologies:** ROS (Robot Operating System), Embedded Systems, Control System Design, Linux Kernel, Circuit Design
 - **Soft Skills:** Team Collaboration, Problem-Solving, Leadership, Organizational Leadership
 
 ---
