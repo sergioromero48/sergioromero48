@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at the Unive
 - Email: sergioromero48@outlook.com
 
 ### 💼 Technical Skills
-- **Languages:** C++, Embedded C, Python, MATLAB
+- **Languages:** C++, Embedded C, Python, Verilog
 - **Tools & Technologies:** ROS (Robot Operating System), Embedded Systems, Control System Design, Linux Kernel, Circuit Design
 - **Soft Skills:** Team Collaboration, Problem-Solving, Leadership, Organizational Leadership
 
